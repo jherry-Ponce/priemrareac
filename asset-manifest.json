@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Jherry-Ponce/static/css/main.41506622.css",
-    "main.js": "/Jherry-Ponce/static/js/main.60a6894a.js",
-    "index.html": "/Jherry-Ponce/index.html",
-    "main.41506622.css.map": "/Jherry-Ponce/static/css/main.41506622.css.map",
-    "main.60a6894a.js.map": "/Jherry-Ponce/static/js/main.60a6894a.js.map"
+    "main.css": "/priemrareac/static/css/main.41506622.css",
+    "main.js": "/priemrareac/static/js/main.60a6894a.js",
+    "index.html": "/priemrareac/index.html",
+    "main.41506622.css.map": "/priemrareac/static/css/main.41506622.css.map",
+    "main.60a6894a.js.map": "/priemrareac/static/js/main.60a6894a.js.map"
   },
   "entrypoints": [
     "static/css/main.41506622.css",
