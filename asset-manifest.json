@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/priemrareac/static/css/main.41506622.css",
-    "main.js": "/priemrareac/static/js/main.60a6894a.js",
+    "main.css": "/priemrareac/static/css/main.ff21b2d1.css",
+    "main.js": "/priemrareac/static/js/main.3b4fe08c.js",
+    "static/media/img2.jpg": "/priemrareac/static/media/img2.f0d28f2e2682f7f80f39.jpg",
     "index.html": "/priemrareac/index.html",
-    "main.41506622.css.map": "/priemrareac/static/css/main.41506622.css.map",
-    "main.60a6894a.js.map": "/priemrareac/static/js/main.60a6894a.js.map"
+    "main.ff21b2d1.css.map": "/priemrareac/static/css/main.ff21b2d1.css.map",
+    "main.3b4fe08c.js.map": "/priemrareac/static/js/main.3b4fe08c.js.map"
   },
   "entrypoints": [
-    "static/css/main.41506622.css",
-    "static/js/main.60a6894a.js"
+    "static/css/main.ff21b2d1.css",
+    "static/js/main.3b4fe08c.js"
   ]
 }
